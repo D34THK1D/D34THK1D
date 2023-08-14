@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @D34THK1D
+- 👋 Hi, I’m @D34THK1D, Dk 
 - 👀 I’m interested in python and web scripting, open to more. 
 - 🌱 I’m currently learning python at the moment.
 - 💞️ I want to collaborate on web scripting and help on future projects.
